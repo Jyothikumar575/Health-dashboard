@@ -1,2 +1,2 @@
 # Health-dashboard
-jyrituouiytudyrfyuouytrdyuiopuyff
+A Healthcare Dashboard is a user-friendly web interface that allows healthcare providers, administrators, and patients to manage and view critical health-related data in a streamlined and interactive way. This dashboard consolidates various data sources into a single view, helping users make informed decisions and track essential health metrics in real-time. The healthcare dashboard often includes functionalities such as patient management, tracking of health metrics, reports, and more.
